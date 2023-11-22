@@ -70,3 +70,11 @@ body {
     line-height: 1.3;
   }
 }
+
+.dropdown-menu {
+  display: none;
+}
+
+.dropdown-menu.show {
+  display: block;
+}

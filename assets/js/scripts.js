@@ -7,3 +7,28 @@ menuTrigger.onclick = function() {
     menuTrigger.classList.toggle('is-active')
     body.classList.toggle('lock-scroll')
 }
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    document.querySelectorAll('.dropdown').forEach(function(dropdownToggle) {
+      dropdownToggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        let dropdownMenu = this.querySelector('.dropdown-menu');
+        if (dropdownMenu) {
+          dropdownMenu.classList.toggle('show');
+        }
+      });
+    });
+  
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropdown-toggle')) {
+        var dropdowns = document.getElementsByClassName('dropdown-menu');
+        for (var i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+  });
+  
