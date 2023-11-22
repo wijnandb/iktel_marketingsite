@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Perceptum'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -18,7 +18,7 @@ collections:
     output: true
     sort_by: weight
   team:
-    output: true
+    output: false
 
 defaults:
   - scope:

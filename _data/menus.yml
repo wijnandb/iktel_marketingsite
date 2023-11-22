@@ -2,10 +2,10 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Aanpak"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Over ons"
     url: "/about/"
     weight: 4
   - name: "Contact"
@@ -19,3 +19,33 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Aanpak"
+    url: "/team/"
+    weight: 3
+  - name: "Over ons"
+    url: "/about/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+      - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2
+  - name: "Services"
+    url: "/services/"
+    weight: 2
+  - name: "Aanpak"
+    url: "/team/"
+    weight: 3
+  - name: "Over ons"
+    url: "/about/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
