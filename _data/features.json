@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Voldoet aan de AVG",
+    "description": "Uw persoonsgegevens zijn veilig en worden volgens strikte privacyregels behandeld",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Cloud-gebaseerd & Lokaal Gehost",
+    "description": "Gehost in de cloud op Europese servers voor betrouwbare en lokale gegevensopslag.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,12 +18,39 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Multi-Platform Toegankelijkheid",
+    "description": "Toegankelijk vanaf elk apparaat: mobiel, tablet en desktop, voor flexibel gebruik.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
       "height": 80
     }
-  }
+  },
+  {
+    "title": "Intuïtieve Gebruikersinterface",
+    "description": "Een intuïtieve interface die gebruikers moeiteloos door de applicatie leidt, voor een eenvoudige en effectieve gebruikservaring.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Snel en Betrouwbaar",
+    "description": "Ontworpen voor snelle prestaties en betrouwbare toegang, altijd en overal.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Real-time Updates & Notificaties",
+    "description": "Biedt real-time updates en notificaties om gebruikers continu op de hoogte te houden van belangrijke informatie en veranderingen.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }  
 ]
