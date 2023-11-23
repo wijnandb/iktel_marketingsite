@@ -8,6 +8,19 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-index, eerste tonen.
+# Vraag/aanbod
 
-Overzicht van onderliggende onderdelen?
+# Matching
+
+# Offerte en contract
+
+# Inschrijving
+Inschrijving vindt plaats door leerlingen en ouders. In een duidelijke, inuitieve interface kiezen ouders uit het aanbod dat van toepassing is voor hun kind. Dat is dus al gefilterd op groep.
+
+# Plaatsing
+
+
+# Uitvoering activiteit
+# Evaluatie
+# Afrekenen
+# Rapportage
