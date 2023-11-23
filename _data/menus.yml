@@ -2,6 +2,11 @@ main:
   - name: "Oplossing"
     url: "/oplossing/"
     weight: 2
+    dropdown:
+      - name: Modules
+        url: /oplossing/modulair
+      - name: Voor wie
+        url: /about   
   - name: "Werkwijze"
     url: "/werkwijze/"
     weight: 3
