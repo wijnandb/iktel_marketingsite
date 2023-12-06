@@ -1,1 +1,1 @@
-Brede school software, zoals geiplemnteerd bij bredeschoolzuidoost.nl
+Brede school software, zoals geimplementeerd bij bredeschoolzuidoost.nl
