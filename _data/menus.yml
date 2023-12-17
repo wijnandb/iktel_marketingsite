@@ -1,25 +1,75 @@
 main:
+  - name: "Home"
+    url: "/home"
+    weight: 1
+
+  - name: "About Us"
+    url: "/about"
+    weight: 2
+
+  - name: "Services"
+    url: "/services"
+    weight: 3
+    dropdown:
+      - name: "Consulting"
+        url: "/services/consulting"
+      - name: "Development"
+        url: "/services/development"
+      - name: "Design"
+        url: "/services/design"
+
   - name: "Oplossing"
-    url: "/oplossing/"
+    url: "/oplossing"
+    weight: 4
     dropdown:
       - name: "Modules"
-        url: "/oplossing/modulair"
-      - name: "Voor wie"
-        url: "/about"
-  - name: "Werkwijze"
-    url: "/werkwijze/"
-    weight: 3
-  - name: "Over ons"
-    url: "/over-ons/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
+        url: "/oplossing/modules"
+      - name: "Implementation"
+        url: "/oplossing/implementation"
+
+  - name: "Blog"
+    url: "/blog"
     weight: 5
 
-footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
   - name: "Contact"
-    url: "/contact/"
+    url: "/contact"
+    weight: 6
+
+
+footer:
+main:
+  - name: "Home"
+    url: "/home"
+    weight: 1
+
+  - name: "About Us"
+    url: "/about"
     weight: 2
+
+  - name: "Services"
+    url: "/services"
+    weight: 3
+    dropdown:
+      - name: "Consulting"
+        url: "/services/consulting"
+      - name: "Development"
+        url: "/services/development"
+      - name: "Design"
+        url: "/services/design"
+
+  - name: "Oplossing"
+    url: "/oplossing"
+    weight: 4
+    dropdown:
+      - name: "Modules"
+        url: "/oplossing/modules"
+      - name: "Implementation"
+        url: "/oplossing/implementation"
+
+  - name: "Blog"
+    url: "/blog"
+    weight: 5
+
+  - name: "Contact"
+    url: "/contact"
+    weight: 6
