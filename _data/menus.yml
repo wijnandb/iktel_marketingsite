@@ -1,15 +1,15 @@
 main:
-  - name: "Over ons"
-    url: "/over-ons"
-    weight: 5
-  - name: "Werkwijze"
-    url: "/werkwijze"
-    weight: 3
   - name: "Oplossing"
     url: "/oplossing"
-    weight: 4
+    weight: 1
+  - name: "Werkwijze"
+    url: "/werkwijze"
+    weight: 2
   - name: "Voor wie"
     url: "/voor-wie"
+    weight: 4
+  - name: "Over ons"
+    url: "/over-ons"
     weight: 5
   - name: "Contact"
     url: "/contact"
@@ -20,4 +20,4 @@ footer:
     weight: 1
   - name: "Privacy"
     url: "/privacy"
-
+    weight: 2
