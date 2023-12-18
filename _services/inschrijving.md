@@ -3,7 +3,7 @@ title: "Inschrijving"
 date: 2023-11-18T12:33:46+10:00
 weight: 4
 ---
-Maakt de inschrijving van leerlingen en ouders eenvoudig en overzichtelijk.
+Efficiënte en eenvoudige manier voor registratie van deelname aan activiteiten met aandacht voor leerling-specifieke aspecten.
 
 Inschrijving vindt plaats door leerlingen en ouders. In een duidelijke, inuitieve interface kiezen ouders uit het aanbod dat van toepassing is voor hun kind. Dat is dus al gefilterd op groep en school, zodat leerlingen alleen ingescchreven worden op activiteiten die voor hen relevant zijn.
 

@@ -3,6 +3,8 @@ layout: page
 title: Over ons
 ---
 
+Perceptum is een vooruitstrevend technologiebedrijf dat zich richt op het ontwikkelen van innovatieve weboplossingen, o.a. voor organisatoren van naschoolse activiteiten. 
+
 In de drukte van het dagelijks leven streven ouders, scholen en activiteitenbegeleiders ernaar om kinderen niet alleen onderwijs, maar ook persoonlijke groei en ontwikkeling te bieden. Naschoolse activiteiten spelen hierbij een cruciale rol. Ze zijn het podium waar talenten ontdekt worden, vriendschappen bloeien en levenslessen geleerd worden. Maar het organiseren en beheren van deze activiteiten kan een complexe puzzel zijn.
 
 __*Dat is waar onze software een verschil maakt.*__
