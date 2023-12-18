@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privay
+title: Privacy
 ---
 
 Tekstje over privacy.
