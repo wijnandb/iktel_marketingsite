@@ -3,11 +3,18 @@ layout: page
 title: Over ons
 ---
 
-Buitenschoolse activiteiten spelen een cruciale rol in de ontwikkeling van kinderen. Deze activiteiten bieden niet alleen een veilige en gestructureerde omgeving waar kinderen na schooltijd kunnen verblijven, maar ze bieden ook kansen voor persoonlijke groei en ontwikkeling die ze mogelijk niet in hun directe thuisomgeving vinden. 
-Door deel te nemen aan sport, muziek, kunst, of andere verrijkende programma's, krijgen kinderen de mogelijkheid om nieuwe vaardigheden te ontwikkelen, hun zelfvertrouwen te versterken, en positieve sociale interacties aan te gaan. Bovendien helpen deze activiteiten kinderen om belangrijke levenslessen te leren, zoals teamwork, doorzettingsvermogen, en verantwoordelijkheid, die essentieel zijn voor hun algehele ontwikkeling en toekomstig succes. Voor kinderen waar toegang tot dergelijke positieve ervaringen beperkt is, kunnen buitenschoolse activiteiten een cruciaal verschil maken in hun leven.
+In de drukte van het dagelijks leven streven ouders, scholen en activiteitenbegeleiders ernaar om kinderen niet alleen onderwijs, maar ook persoonlijke groei en ontwikkeling te bieden. Naschoolse activiteiten spelen hierbij een cruciale rol. Ze zijn het podium waar talenten ontdekt worden, vriendschappen bloeien en levenslessen geleerd worden. Maar het organiseren en beheren van deze activiteiten kan een complexe puzzel zijn.
 
-Onze innovatieve platform speelt een essentiële rol in het versterken van deze positieve impact. Het ondersteunt het gehele proces van buitenschoolse activiteiten, van planning tot uitvoering, en zorgt ervoor dat alle betrokken partijen - inclusief leerlingen, ouders, en begeleiders - voortdurend betrokken en geïnformeerd zijn. 
-Dit verhoogt niet alleen de efficiëntie van de organisatie van activiteiten, maar zorgt ook voor een transparante en naadloze communicatie tussen alle partijen. 
-Bovendien bespaart onze webapplicatie aanzienlijk in tijd en geld, wat cruciaal is voor scholen en organisaties die met beperkte middelen werken. Door onze technologie in te zetten, kunnen we ervoor zorgen dat buitenschoolse activiteiten toegankelijker, effectiever en verrijkender worden voor ieder kind.
+__*Dat is waar onze software een verschil maakt.*__
 
-> Sinds we gebruikmaken van het NaDeBel platform, zijn we minder tijd en geld kwijt, terwijl we meer tevreden gebruikers hebben
+Ons platform is ontworpen met één doel voor ogen: __het stroomlijnen van het beheer van naschoolse activiteiten__. Wij geloven dat door de administratieve last te verlichten, begeleiders meer tijd hebben om zich te richten op wat echt telt: de ontwikkeling van het kind.
+
+Met onze software kunnen scholen en activiteitenorganisatoren:
+
+<!--- __Efficiënt beheren__: Snel activiteiten plannen, inschrijvingen beheren, en communicatie stroomlijnen.
+- __Inzicht krijgen__: Real-time overzichten bieden inzicht in deelname, voorkeuren en feedback, zodat activiteiten beter aansluiten bij de behoeften van de kinderen.
+- __Verbinden__: Ouders eenvoudig informeren en betrekken bij de activiteiten van hun kinderen, versterking van de gemeenschapszin. -->
+
+We zijn gedreven door de overtuiging dat __technologie ten dienste moet staan van educatie en ontwikkeling__. Door de logistieke uitdagingen van het organiseren van naschoolse activiteiten weg te nemen, geven we ruimte aan creativiteit, persoonlijke aandacht en, het allerbelangrijkste, de vreugde van het leren buiten de klas.
+
+Wij zijn niet alleen een softwareaanbieder; we zijn partners in de missie om de volgende generatie te inspireren en te ondersteunen. Ontdek vandaag nog hoe onze software uw naschoolse activiteiten kan transformeren en bijdragen aan een rijker leerlandschap voor elk kind.
