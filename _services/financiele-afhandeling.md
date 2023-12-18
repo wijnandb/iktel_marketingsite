@@ -1,7 +1,7 @@
 ---
 title: "Financiële afhandeling"
-date: 2019-02-28T15:15:34+10:00
-weight: 3
+date: 2023-02-28T15:15:34+10:00
+weight: 8
 ---
 
 Een belangrijke en vaak tijdrovende klus is zorgen voor de financiele afhandeling van de georganiseerde activiteiten. 

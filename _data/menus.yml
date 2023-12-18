@@ -1,35 +1,23 @@
 main:
-  - name: "Home"
-    url: "/home"
-    weight: 1
-  - name: "About Us"
-    url: "/about"
-    weight: 2
-  - name: "Services"
-    url: "/services"
+  - name: "Over ons"
+    url: "/contact"
+    weight: 5
+  - name: "Werkwijze"
+    url: "/werkwijze"
     weight: 3
-    dropdown:
-      - name: "Consulting"
-        url: "/services/consulting"
-      - name: "Development"
-        url: "/services/development"
-      - name: "Design"
-        url: "/services/design"
   - name: "Oplossing"
     url: "/oplossing"
     weight: 4
-    dropdown:
-      - name: "Modules"
-        url: "/oplossing/modules"
-      - name: "Implementation"
-        url: "/oplossing/implementation"
-  - name: "Blog"
-    url: "/blog"
+  - name: "Voor wie"
+    url: "/voor-wie"
     weight: 5
   - name: "Contact"
     url: "/contact"
     weight: 6
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "Disclaimer"
+    url: "/disclaimer"
+    weight: 1
+  - name: "Privacy"
+    url: "/privacy"
 
