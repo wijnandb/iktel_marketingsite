@@ -16,7 +16,7 @@
   },
   {
       "name": "Email",
-      "link": "mailto:info@perceptum.nl",
+      "link": "mailto:info@perceptum.nl?subject='Vertel me meer over platform om naschoolse activiteiten te organiseren'",
       "image": "images/social/email.svg"
   }
 
