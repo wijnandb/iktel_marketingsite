@@ -2,9 +2,8 @@
 title: "Uitvoering activiteit"
 date: 2023-11-18T12:33:46+10:00
 weight: 6
+intro: "Aanwezigheid en inzet kunnen worden bijgehouden, beoordeeld en gestimuleerd, waarbij successen worden gevierd en verbeterpunten werkelijk aandacht krijgen."
 ---
-
-Aanwezigheid en inzet kunnen worden bijgehouden, beoordeeld en gestimuleerd, waarbij successen worden gevierd en verbeterpunten werkelijk aandacht krijgen.
 
 Bij de uitvoering van de activiteit is het van belang dat duidelijk is voor alle betrokkenen waar en wanneer de activiteit plaatsvindt. _Last minute_ wijzigingen moeten eenvoudig doorgevoerd kunnen worden en direct zichtbaar zijn voor de betrokkenen.
 

@@ -2,9 +2,8 @@
 title: "Financiële afhandeling"
 date: 2023-02-28T15:15:34+10:00
 weight: 8
+intro: "Eenvoudige, correcte en volledige afhandeling van financiële processen tussen partijen (zoals facturatie van materiaal en inspanning, declaraties)."
 ---
-
-Eenvoudige, correcte en volledige afhandeling van financiële processen tussen partijen (zoals facturatie van materiaal en inspanning, declaraties).
 
 Een belangrijke en vaak tijdrovende klus is zorgen voor de financiele afhandeling van de georganiseerde activiteiten. 
 
