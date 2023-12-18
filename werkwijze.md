@@ -29,7 +29,7 @@ Perceptum biedt ondersteuning tijdens de implementatiefase om een soepele overga
 
 Tijdens de eerste dagen en weken dat de applicatie in gebruik is, houden we de vinger aan de pols: waar lopen medewerkers tegenaan, zijn er vragen  of problemen?
 
-## Feedback en Evaluatie
+## Feedback en evaluatie
 Na implementatie wordt feedback verzameld om de prestaties en gebruiksvriendelijkheid van de software te evalueren.
 Eventuele aanpassingen of updates worden doorgevoerd op basis van deze feedback.
 In overleg wordt besloten of er ook een fysieke evaluatie plaatsvindt.
