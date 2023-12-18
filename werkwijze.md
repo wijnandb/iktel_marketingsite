@@ -16,7 +16,7 @@ Op basis van de behoefteanalyse wordt een voorstel gedaan, inclusief een overzic
 Na overeenstemming wordt een contract opgesteld en ondertekend.
 
 ## Aanpassing en ontwikkeling
-Er wordt zo snel mogelijk een basisversie opgeleverd, waarna in een aantal sprints de software wordt aangepast aan de specifieke eisen van de klant.
+Er wordt zo snel mogelijk een basisversie opgeleverd, waarna in een aantal sprints de software wordt aangepast aan de specifieke eisen en wensen van de klant.
 Eventuele extra functies of maatwerkoplossingen worden in deze fase ook ontwikkeld.
 
 ## Training en ondersteuning
@@ -24,7 +24,7 @@ Omdat er meerdere mensen vanuit verschillende rollen werken met de applicatie, i
 Trainingssessies worden georganiseerd voor de medewerkers van de klant om hen vertrouwd te maken met de software en ondersteunend materiaal, zoals handleidingen en video-tutorials, wordt verstrekt.
 
 ## Implementatie en migratie
-De software wordt geïmplementeerd in de organisatie. Dat betekent dat de software in gebruik wordt genomen en de medewerkers gaan er mee aan de slag.
+De software wordt geïmplementeerd in de organisatie. Dat betekent dat de software in gebruik wordt genomen en de medewerkers er mee aan de slag gaan.
 Zijn er nog gegevens uit legacy systemen die overgezet moeten worden, dan gebeurt dat in deze fase.
 Perceptum biedt ondersteuning tijdens de implementatiefase om een soepele overgang te waarborgen.
 

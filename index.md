@@ -2,8 +2,8 @@
 title: Naschoolse activiteiten organiseren
 layout: home
 description: Een webapplicatie die het organiseren van buitenschoolse activiteiten ondersteunt, de ontwikkeling van kinderen bevordert en efficiënte communicatie tussen alle betrokkenen waarborgt, terwijl het kosten bespaart voor scholen en organisaties.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+intro_image: "images/illustrations/two_playing_boardgame.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
