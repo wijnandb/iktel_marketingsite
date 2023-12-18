@@ -11,5 +11,18 @@ bodyClass: "page-service"
         <div class="content">{{content}}</div>
       </div>
     </div>
+    <div class="col-12 col-md-4 mb-3">
+      <div class="service service-summary">
+        <h1>Modules</h1>
+        <div class="service-content">
+          {% for service in site.services %}
+            <h2 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h2>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    
   </div>
 </div>
