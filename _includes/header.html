@@ -1,15 +1,20 @@
 <div class='header'>
+  <style>
+    .header {
+      padding-top: 40px; /* Adds whitespace above the logo */
+    }
+  </style>
   <div class="container">
     <div class="logo">
-      <a href="{{ site.baseurl }}">
+      <a href="{{ site.baseurl }}" style="text-decoration: none;">
         <!-- <img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ site.logo.desktop | relative_url }}" /> -->
-        Perceptum
+        <p style="font-family: 'Montserrat Alternates', sans-serif; font-size: 60px; color: #1f53a6;">Perceptum</p>
       </a>
     </div>
     <div class="logo-mobile">
-      <a href="{{ site.baseurl }}">
+      <a href="{{ site.baseurl }}" style="text-decoration: none;">
         <!-- <img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /> -->
-        P
+        <p style="font-family: 'Montserrat Alternates', sans-serif; font-size: 40px; color: #1f53a6;">Perceptum</p>
       </a>
     </div>
     {% include main-menu.html %}
