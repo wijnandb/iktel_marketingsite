@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Onze werkwijze
+intro_image: "images/illustrations/girl_playing_soccer.png"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
+intro: "Wij hanteren in onze werkwijze verschillende fasen, die hieronder worden toegelicht. Aangezien het een webapplicatie betreft, is het van belang dat de applicatie in de organisatie wordt geïmplementeerd. Daarom besteden we ook aandacht aan de implementatie en migratie van de applicatie."
 ---
-
-# Onze werkwijze
-Wij hanteren in onze werkwijze verschillende fasen, die hieronder worden toegelicht.
 
 ## Eerste vrijblijvende afspraak
 Nadat er contact is gelegd en u benieuwd bent of onze oplossing wellicht geschikt is voor uw organisatie, komen we bij u langs. Elke organisatie is tenslotte uniek, dus we bespreken uitgebreide de eisen en wensen die u aan onze software stelt.
