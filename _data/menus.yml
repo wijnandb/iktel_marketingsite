@@ -11,9 +11,6 @@ main:
   - name: "Voor wie"
     url: "/voor-wie"
     weight: 5
-  - name: "Contact"
-    url: "/contact"
-    weight: 6
 footer:
   - name: "Disclaimer"
     url: "/disclaimer"
