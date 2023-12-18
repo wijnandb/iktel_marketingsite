@@ -2,8 +2,8 @@
 title: "Oplossing"
 layout: services
 description: Welke processen en personen zijn betrokken bij de organisatie en uitvoering van activiteiten?
-intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
+intro_image: "images/illustrations/three_teenagers.png"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
