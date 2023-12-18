@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/wijnandb",
+    "image": "images/social/github.svg"
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/wijnandb",
+    "image": "images/social/twitter.svg"
+  },
+  {
+      "name": "Facebook",
+      "link": "https://www.facebook.com/perceptumnl",
+      "image": "images/social/facebook.svg"
+  },
+  {
+      "name": "Email",
+      "link": "mailto:info@perceptum.nl",
+      "image": "images/social/email.svg"
+  }
+
+]
