@@ -32,4 +32,3 @@ Deze disclaimer kan van tijd tot tijd worden bijgewerkt. Wij adviseren gebruiker
 
 10. __Contact__
 Voor vragen of opmerkingen over deze disclaimer kunt u contact met ons opnemen via [contactinformatie]({% link contact.md %}).
-
