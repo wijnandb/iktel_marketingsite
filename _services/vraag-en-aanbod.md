@@ -9,7 +9,7 @@ De organisator van het buitenschoolse programma kan voorkeuren aangeven en direc
 
 De module 'Vraag en Aanbod' binnen de webapplicatie voor naschoolse activiteiten vormt de kern van de interactie tussen organisatoren en aanbieders. Deze module stelt organisatoren in staat om specifieke voorkeuren voor activiteiten op te geven en direct inzicht te krijgen in de beschikbaarheid van aanbieders. Aanbieders van naschoolse activiteiten kunnen op hun beurt de vraag naar hun diensten inzien en hun beschikbaarheid beheren.
 
-Functionaliteiten:
+### Functionaliteiten:
 
 1. Filteren op Talentgebied:
   - Gebruikers kunnen zoeken naar activiteiten op basis van verschillende talentgebieden, zoals sport, kunst, wetenschap, en technologie.
