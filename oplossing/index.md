@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-Perceptum: Efficiënte coördinatie van buitenschoolse activiteiten, gericht op plezier en ontwikkeling.
+{{ site.title }}: Efficiënte coördinatie van buitenschoolse activiteiten, gericht op plezier en ontwikkeling.
 
-Met Perceptum transformeert u de manier waarop buitenschoolse activiteiten worden georganiseerd. Ons platform biedt een gestroomlijnde, eenvoudige en kostenefficiënte oplossing die scholen, coördinatoren, leerlingen, ouders en aanbieders verenigt. De focus ligt op plezier en ontwikkeling, waarbij de complexiteit van vraag en aanbod moeiteloos wordt beheerd. Perceptum neemt de uitdagingen van organisatie weg, zodat iedereen zich kan concentreren op het creëren van waardevolle, educatieve ervaringen.
+Met {{ site.title }} transformeert u de manier waarop buitenschoolse activiteiten worden georganiseerd. Ons platform biedt een gestroomlijnde, eenvoudige en kostenefficiënte oplossing die scholen, coördinatoren, leerlingen, ouders en aanbieders verenigt. De focus ligt op plezier en ontwikkeling, waarbij de complexiteit van vraag en aanbod moeiteloos wordt beheerd. {{ site.title }} neemt de uitdagingen van organisatie weg, zodat iedereen zich kan concentreren op het creëren van waardevolle educatieve ervaringen.
