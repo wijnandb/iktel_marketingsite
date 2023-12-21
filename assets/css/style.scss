@@ -71,10 +71,15 @@ body {
   }
 }
 
-.dropdown-menu {
-  display: none;
+img.float-right {
+  float: right;
+  width: 50%; /* Adjust the size as needed */
+  height: auto;
 }
 
-.dropdown-menu.show {
-  display: block;
+@media screen and (max-width: 768px) {
+  img.float-right {
+      float: none;
+      width: 100%;
+  }
 }
