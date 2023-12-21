@@ -1,6 +1,6 @@
-baseurl: '/bredeschool_software/'
+baseurl: '/bredeschool_software'
 permalink: pretty
-title: 'Perceptum'
+title: 'Na de bel'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -37,6 +37,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
