@@ -1,5 +1,5 @@
 ---
-title: Naschoolse activiteiten eenvoudiger organiseren
+title: Buitenschoolse activiteiten eenvoudiger organiseren
 layout: home
 description: Een webapplicatie die het organiseren van buitenschoolse activiteiten ondersteunt, de ontwikkeling van kinderen bevordert en efficiënte communicatie tussen alle betrokkenen waarborgt, terwijl het kosten bespaart voor scholen en organisaties.
 intro_image: "images/illustrations/two_playing_boardgame.png"
