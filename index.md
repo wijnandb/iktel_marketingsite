@@ -1,5 +1,5 @@
 ---
-title: Naschoolse activiteiten organiseren
+title: Naschoolse activiteiten eenvoudiger organiseren
 layout: home
 description: Een webapplicatie die het organiseren van buitenschoolse activiteiten ondersteunt, de ontwikkeling van kinderen bevordert en efficiënte communicatie tussen alle betrokkenen waarborgt, terwijl het kosten bespaart voor scholen en organisaties.
 intro_image: "images/illustrations/two_playing_boardgame.png"
@@ -10,6 +10,4 @@ show_call_box: true
 
 # {{ site.title }} vereenvoudigt het coördineren van buitenschoolse activiteiten in alle stappen van het proces
 
-Buitenschoolse activiteiten spelen een cruciale rol in de ontwikkeling van kinderen. Deze activiteiten bieden niet alleen een veilige en gestructureerde omgeving waar kinderen na schooltijd kunnen verblijven, maar ze bieden ook kansen voor persoonlijke groei en ontwikkeling die ze mogelijk niet in hun directe thuisomgeving vinden. Door deel te nemen aan sport, muziek, kunst, of andere verrijkende programma's, krijgen kinderen de mogelijkheid om nieuwe vaardigheden te ontwikkelen, hun zelfvertrouwen te versterken, en positieve sociale interacties aan te gaan.
-
-Onze innovatieve webapplicatie speelt een essentiële rol in het versterken van deze positieve impact.
+Het platform "{{ site.title }}" is ontworpen om het coördineren van buitenschoolse activiteiten te vereenvoudigen. Het integreert vraag en aanbod op één centrale plek en koppelt effectief aanbieders en afnemers. Afspraken worden transparant en conform wetgeving vastgelegd. Het faciliteert eenvoudige inschrijving en biedt duidelijkheid over plaatsingsmogelijkheden. De uitvoering van activiteiten wordt bijgehouden, beoordeeld en gestimuleerd. Het platform biedt multi-device toegankelijkheid met een intuïtieve interface voor een efficiënte ervaring.
