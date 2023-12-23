@@ -49,7 +49,7 @@
     window.onload = function() {
   
       var imageIndex = Math.floor(Math.random() * images.length); // Random index based on the array length
-      var baseurl = "/bredeschool_software"; 
+      var baseurl = ""; 
       var imagePath = baseurl + '/images/illustrations/' + images[imageIndex]; // Using the filename from the array
   
       var pictureElement = document.getElementById('random-image');
