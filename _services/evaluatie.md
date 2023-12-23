@@ -10,18 +10,22 @@ De 'Evaluatie' module is gericht op het beoordelen en verbeteren van de aangebod
 ## Functionaliteiten
 
 ### 1. Feedback Verzamelen van Deelnemers
+
 - De module maakt het mogelijk om na afloop van elke activiteit feedback te verzamelen van deelnemende kinderen en hun ouders.
 - Dit kan variëren van eenvoudige tevredenheidsscores tot gedetailleerde beoordelingen en opmerkingen.
 
 ### 2. Beoordelingen voor Aanbieders
+
 - Ouders en organisatoren kunnen beoordelingen en reviews achterlaten over de aanbieders.
 - Dit helpt bij het waarborgen van de kwaliteit en het aanmoedigen van excellente dienstverlening.
 
 ### 3. Analyse van Feedback
+
 - De module biedt tools voor het analyseren van de verzamelde feedback.
 - Hiermee kunnen trends en patronen worden geïdentificeerd, wat waardevolle inzichten geeft voor toekomstige verbeteringen.
 
 ### 4. Rapportage en Verbeteringsplannen
+
 - De verzamelde data en analyses kunnen worden omgezet in rapportages.
 - Deze rapporten helpen bij het opstellen van verbeteringsplannen voor de buitenschoolse activiteiten.
 
