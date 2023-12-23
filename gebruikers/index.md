@@ -26,4 +26,4 @@ Ook krijgen de ouders inzicht
 
 ## Leerlingen
 En als laatste misschien wel de belangrijkste groep gebruikers: de leerlingen, de kinderen. 
-Terwijl het hele platform is ingericht om er voor te zorgen dat zij deel kunnen nemen aan naschoolse activiteiten, is er gek genoeg geen specifieke functionaliteit die gericht is op de leerlingen. 
+Terwijl het hele platform is ingericht om er voor te zorgen dat zij deel kunnen nemen aan buitenschoolse activiteiten, is er gek genoeg geen specifieke functionaliteit die gericht is op de leerlingen. 

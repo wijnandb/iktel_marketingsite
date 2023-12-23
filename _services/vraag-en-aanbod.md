@@ -11,24 +11,24 @@ De module 'Vraag en Aanbod' binnen de webapplicatie voor buitenschoolse activite
 
 ### Functionaliteiten:
 
-1. Filteren op Talentgebied:
+### 1. Filteren op Talentgebied:
   - Gebruikers kunnen zoeken naar activiteiten op basis van verschillende talentgebieden, zoals sport, kunst, wetenschap, en technologie.
   - Deze filteroptie maakt het mogelijk om de zoekresultaten te verfijnen, zodat organisatoren activiteiten kunnen vinden die precies aansluiten bij de interesses en behoeften van hun studenten.
 
-2. Overzicht van Aanbieders:
+### 2. Overzicht van Aanbieders:
   - De module biedt een gedetailleerd overzicht van alle aanbieders van buitenschoolse activiteiten.
   - Gebruikers kunnen de profielen van verschillende aanbieders bekijken, inclusief hun specialisaties, beschikbare tijden, en eerdere ervaringen.
   - Organisatoren kunnen rechtstreeks contact opnemen met aanbieders voor meer informatie of om specifieke vragen te stellen.
 
-3. Real-time Beschikbaarheid:
+### 3. Real-time Beschikbaarheid:
   - Zowel organisatoren als aanbieders hebben toegang tot een real-time kalenderweergave die de beschikbaarheid van aanbieders toont.
   - Organisatoren kunnen direct zien wanneer een aanbieder beschikbaar is om een activiteit te organiseren, wat de planning vereenvoudigt.
 
-4. Gebruiksvriendelijke Interface:
-        De module is ontworpen met een intuïtieve en gebruiksvriendelijke interface, waardoor het voor zowel organisatoren als aanbieders eenvoudig is om de benodigde informatie te vinden en acties uit te voeren.
+### 4. Gebruiksvriendelijke Interface:
+  - De module is ontworpen met een intuïtieve en gebruiksvriendelijke interface, waardoor het voor zowel organisatoren als aanbieders eenvoudig is om de benodigde informatie te vinden en acties uit te voeren.
 
-5. Feedback en Beoordelingen:
-        Organisatoren kunnen feedback en beoordelingen achterlaten voor aanbieders, wat toekomstige gebruikers helpt bij het maken van geïnformeerde keuzes.
+### 5. Feedback en Beoordelingen:
+  - Organisatoren kunnen feedback en beoordelingen achterlaten voor aanbieders, wat toekomstige gebruikers helpt bij het maken van geïnformeerde keuzes.
 
 ### Voordelen:
 

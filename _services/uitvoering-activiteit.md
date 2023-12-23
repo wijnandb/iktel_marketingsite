@@ -6,7 +6,7 @@ intro: "Aanwezigheid en inzet kunnen worden bijgehouden, beoordeeld en gestimule
 ---
 
 ## Overzicht
-De 'Uitvoering Activiteit' module in de webapplicatie voor naschoolse activiteiten biedt essentiële functies voor het effectief beheren van de daadwerkelijke uitvoering van de activiteiten. Deze module omvat aanwezigheidsregistratie, directe communicatiemogelijkheden bij wijzigingen, en toegang tot contactinformatie van ouders.
+De 'Uitvoering Activiteit' module in de webapplicatie voor buitenschoolse activiteiten biedt essentiële functies voor het effectief beheren van de daadwerkelijke uitvoering van de activiteiten. Deze module omvat aanwezigheidsregistratie, directe communicatiemogelijkheden bij wijzigingen, en toegang tot contactinformatie van ouders.
 
 ## Functionaliteiten
 

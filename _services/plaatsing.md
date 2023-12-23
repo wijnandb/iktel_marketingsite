@@ -6,7 +6,7 @@ intro: "Direct duidelijkheid over de mogelijkheden en eventuele voorwaarden voor
 ---
 
 ## Overzicht
-De 'Plaatsing' module is een geavanceerde component van de webapplicatie voor naschoolse activiteiten, die zowel handmatige als automatische plaatsingsmogelijkheden biedt. Deze module gebruikt verschillende algoritmes om kinderen efficiënt te plaatsen in activiteiten, met als doel diversiteit en inclusiviteit in de deelname te bevorderen.
+De 'Plaatsing' module is een geavanceerde component van de webapplicatie voor buitenschoolse activiteiten, die zowel handmatige als automatische plaatsingsmogelijkheden biedt. Deze module gebruikt verschillende algoritmes om kinderen efficiënt te plaatsen in activiteiten, met als doel diversiteit en inclusiviteit in de deelname te bevorderen.
 
 ## Functionaliteiten
 

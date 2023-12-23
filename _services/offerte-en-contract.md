@@ -5,7 +5,7 @@ intro: "Afspraken tussen partijen worden eenvoudig, transparant en gedegen vastg
 ---
 
 ## Overzicht
-De 'Offerte en Contract' module in de webapplicatie voor naschoolse activiteiten transformeert de concept-overeenkomst uit de 'Matching' fase in een formele overeenkomst. Deze module is essentieel voor het vastleggen van de definitieve afspraken tussen de organisator en de aanbieder, waarbij de digitale goedkeuring zorgt voor een betrouwbare en juridisch bindende overeenkomst.
+De 'Offerte en Contract' module in de webapplicatie voor buitenschoolse activiteiten transformeert de concept-overeenkomst uit de 'Matching' fase in een formele overeenkomst. Deze module is essentieel voor het vastleggen van de definitieve afspraken tussen de organisator en de aanbieder, waarbij de digitale goedkeuring zorgt voor een betrouwbare en juridisch bindende overeenkomst.
 
 ## Functionaliteiten
 

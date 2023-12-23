@@ -5,8 +5,7 @@ weight: 7
 intro: "Mogelijkheid om continu de kwaliteit van de activiteiten, de leerlingparticipatie en hun ontwikkeling te kunnen volgens, verbeteren en stimuleren."
 ---
 
-## Overzicht
-De 'Evaluatie' module is een belangrijk onderdeel van de webapplicatie voor naschoolse activiteiten, gericht op het beoordelen en verbeteren van de aangeboden activiteiten. Deze module stelt organisatoren, aanbieders en ouders in staat om feedback te geven en te ontvangen, wat bijdraagt aan de continue verbetering van het aanbod.
+De 'Evaluatie' module is gericht op het beoordelen en verbeteren van de aangeboden activiteiten. Deze module stelt organisatoren, aanbieders en ouders in staat om feedback te geven en te ontvangen, wat bijdraagt aan de continue verbetering van het aanbod.
 
 ## Functionaliteiten
 
@@ -24,7 +23,7 @@ De 'Evaluatie' module is een belangrijk onderdeel van de webapplicatie voor nasc
 
 ### 4. Rapportage en Verbeteringsplannen
 - De verzamelde data en analyses kunnen worden omgezet in rapportages.
-- Deze rapporten helpen bij het opstellen van verbeteringsplannen voor de naschoolse activiteiten.
+- Deze rapporten helpen bij het opstellen van verbeteringsplannen voor de buitenschoolse activiteiten.
 
 ## Voordelen
 

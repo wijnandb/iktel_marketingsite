@@ -5,7 +5,7 @@ intro: "Verslaglegging middels generieke en specifiek rapportage-mogelijkheden v
 ---
 
 ## Overzicht
-De 'Rapportage' module binnen de webapplicatie voor naschoolse activiteiten biedt uitgebreide mogelijkheden voor het genereren van rapporten en analyses. Deze module is cruciaal voor het bieden van inzicht in de financiële verantwoording, deelname, en presentie van de activiteiten, en staat centraal in de evaluatie en optimalisatie van het aanbod.
+De 'Rapportage' module binnen de webapplicatie voor buitenschoolse activiteiten biedt uitgebreide mogelijkheden voor het genereren van rapporten en analyses. Deze module is cruciaal voor het bieden van inzicht in de financiële verantwoording, deelname, en presentie van de activiteiten, en staat centraal in de evaluatie en optimalisatie van het aanbod.
 
 ## Functionaliteiten
 
@@ -23,7 +23,7 @@ De 'Rapportage' module binnen de webapplicatie voor naschoolse activiteiten bied
 
 ### 4. Uitgebreide rapportage- en analyse-mogelijkheden
 - De module beschikt over uitgebreide tools voor rapportage en analyse.
-- Gebruikers kunnen aangepaste rapporten genereren om diepgaande inzichten te verkrijgen in diverse aspecten van de naschoolse activiteiten.
+- Gebruikers kunnen aangepaste rapporten genereren om diepgaande inzichten te verkrijgen in diverse aspecten van de buitenschoolse activiteiten.
 
 ## Voordelen
 
