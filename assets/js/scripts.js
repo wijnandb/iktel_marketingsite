@@ -72,7 +72,7 @@
           // Create img element
           var imgElement = document.createElement('img');
           imgElement.setAttribute('src', imagePath + '.png');
-          imgElement.setAttribute('alt', 'Random Image');
+          imgElement.setAttribute('alt', images[imageIndex]);
           imgElement.classList.add('float-right', 'ml-3', 'mb-3');
           pictureElement.appendChild(imgElement);
       } else {
