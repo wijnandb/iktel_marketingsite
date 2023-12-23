@@ -10,7 +10,7 @@ De 'Financiële afhandeling' module is gericht op het stroomlijnen van de financ
 
 ### 1. Self-billing
 
-- De module maakt self-billing mogelijk, waarbij de organisator automatisch facturen genereert namens de aanbieders.
+- De module heeft de optie voor self-billing, waarbij de organisator automatisch facturen genereert namens de aanbieders.
 - Dit vereenvoudigt het facturatieproces en zorgt voor consistentie en nauwkeurigheid in de facturering.
 
 ### 2. Koppeling met Boekhoudsysteem organisator
@@ -26,6 +26,6 @@ De 'Financiële afhandeling' module is gericht op het stroomlijnen van de financ
 ## Voordelen
 
 - **Efficiëntie:** Automatisering van het facturatieproces bespaart tijd en vermindert administratieve lasten.
-- **Nauwkeurigheid:** Self-billing en directe koppelingen zorgen voor een grotere nauwkeurigheid in de financiële administratie.
-- **Fiscale optimalisatie:** Door gebruik te maken van BTW-vrijstelling worden financiën optimaal beheerd in overeenstemming met de belastingwetgeving.
+- **Nauwkeurigheid:** Self-billing en directe koppelingen zorgen voor tijdsbesparing en nauwkeurigheid in de financiële administratie.
+- **Fiscale optimalisatie:** Door gebruik te maken van BTW-vrijstelling worden financiën optimaal besteed in overeenstemming met de belastingwetgeving.
 - **Geïntegreerde afhandeling:** De naadloze integratie met boekhoudsystemen zorgt voor een gestroomlijnd financieel beheer.

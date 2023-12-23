@@ -10,7 +10,7 @@ In de 'Inschrijving' module van de webapplicatie kan gebruik worden gemaakt van 
 
 ### 1. Automatische Koppeling met leerling administratie systeem
 
-- Ouders worden op basis van hun gegevens in het leerling administratie systeem automatisch gekoppeld aan hun eigen kinderen.
+- Ouders krijgen op basis van de gegevens in het leerling administratie systeem automatisch toegang tot de applicatie.
 - Dit zorgt voor een naadloze integratie en vermindert de noodzaak voor handmatige invoer van gegevens.
 
 ### 2. Overzicht van Beschikbare Activiteiten per Kind
