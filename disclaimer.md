@@ -15,13 +15,13 @@ Gebruikers zijn zelf verantwoordelijk voor het naleven van alle toepasselijke we
 4. __Gebruiksrecht__
 Bij het gebruik van de applicaties verkrijgt u geen eigendomsrechten. De applicaties blijven het intellectuele eigendom van de aanbieder of de respectieve eigenaren.
 
-5. __Geen Garantie__
+5. __Geen garantie__
 Hoewel wij streven naar accurate en actuele informatie, garanderen wij niet dat de inhoud van deze website foutloos of volledig is. Ook garanderen wij niet dat de applicaties altijd beschikbaar of vrij van technische fouten zijn.
 
 6. __Beperking van aansprakelijkheid__
 Wij zijn niet aansprakelijk voor enige directe, indirecte, incidentele of gevolgschade die voortvloeit uit het gebruik of de onmogelijkheid van het gebruik van de diensten of inhoud van deze website.
 
-7. __Intellectueel Eigendom__
+7. __Intellectueel eigendom__
 Alle materialen, waaronder tekst, afbeeldingen en software, op deze website zijn eigendom van of in licentie gegeven aan ons en worden beschermd door auteursrecht- en andere intellectuele eigendomswetten.
 
 8. __Privacy__
